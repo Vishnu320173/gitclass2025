@@ -5,3 +5,4 @@ console.log("newly added")
 git add . ( add all files in the folder)
 git commit -m "message"
 git push origin main
+console.log("pull message")
